@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2025-07-27 13:07",
+        "weight": 50.0,
+        "height": 4.1,
+        "bmi": 2.97,
+        "category": "Underweight \ud83e\udd57"
+    },
+    {
+        "date": "2025-07-27 13:07",
+        "weight": 67.0,
+        "height": 5.6,
+        "bmi": 2.14,
+        "category": "Underweight \ud83e\udd57"
+    },
+    {
+        "date": "2025-07-27 13:11",
+        "weight": 56.0,
+        "height": 1.7,
+        "bmi": 19.38,
+        "category": "Normal \ud83d\udcaa"
+    },
+    {
+        "date": "2025-07-27 13:11",
+        "weight": 62.0,
+        "height": 1.56,
+        "bmi": 25.48,
+        "category": "Overweight \ud83c\udf54"
+    },
+    {
+        "date": "2025-07-27 13:22",
+        "weight": 51.0,
+        "height": 1.61,
+        "bmi": 19.68,
+        "category": "Normal \ud83d\udcaa"
+    },
+    {
+        "date": "2025-07-27 13:22",
+        "weight": 48.0,
+        "height": 1.54,
+        "bmi": 20.24,
+        "category": "Normal \ud83d\udcaa"
+    },
+    {
+        "date": "2025-07-27 19:35",
+        "weight": 51.0,
+        "height": 1.54,
+        "bmi": 21.5,
+        "category": "Normal \ud83d\udcaa"
+    },
+    {
+        "date": "2025-07-27 19:35",
+        "weight": 42.0,
+        "height": 1.64,
+        "bmi": 15.62,
+        "category": "Underweight \ud83e\udd57"
+    }
+]
